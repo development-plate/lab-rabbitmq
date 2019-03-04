@@ -3,5 +3,5 @@
 A workshop for RabbitMQ will be built in this repository. For me is RabbitMQ very new and here I would like to collect and document my experiences.
 
 ## table of contents
-1. Chapter 1: Set up RabbitMQ with Docker
-2. Chapter 2: 
+1. Section 1: Set up RabbitMQ with Docker
+2. Section 2: 
