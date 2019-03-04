@@ -8,4 +8,4 @@ This section describes how to install RabbitMQ with Docker.
 * Installed Docker in last version :whale:
 
 ## list of references
-1. [rabbitmq Docker Official Images](https://hub.docker.com/_/rabbitmq)
+1. [RabbitMQ Docker Official Images](https://hub.docker.com/_/rabbitmq)
