@@ -1,7 +1,10 @@
-# Chapter 1: Set up RabbitMQ with Docker
+# Section 1: Set up RabbitMQ with Docker
 ## foreword
-This chapter describes how to install RabbitMQ with Docker.
+This section describes how to install RabbitMQ with Docker.
+
+## prerequisites
+* a Computer :computer: 
+* :penguin: Linux distribution like Ubuntu
+* Installed Docker in last version :whale:
 
 
-
-Michael Plate, 2019
