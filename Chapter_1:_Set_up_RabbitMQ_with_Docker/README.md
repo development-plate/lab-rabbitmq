@@ -2,3 +2,6 @@
 ## foreword
 This chapter describes how to install RabbitMQ with Docker.
 
+
+
+Michael Plate, 2019
