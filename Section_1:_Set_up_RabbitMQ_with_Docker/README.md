@@ -16,7 +16,7 @@ sudo docker run -d --hostname vm-client01 --name rabbit-dev \
   -e RABBITMQ_DEFAULT_PASS=admintest \ 
   rabbitmq:3.7.12-management
 ```
-
+visit your local [RabbitMQ Management](http://localhost:15672) installation. Your login is admin with passwort admintest.
 
 ## list of references
 1. [RabbitMQ Docker Official Images](https://hub.docker.com/_/rabbitmq)
