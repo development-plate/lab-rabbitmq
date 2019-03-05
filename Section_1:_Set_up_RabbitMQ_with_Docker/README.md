@@ -8,6 +8,8 @@ This section describes how to install RabbitMQ with Docker.
 * Installed Docker in last version :whale:
 
 ## installation
+For the installation we get an official image of RabbitMQ from the Dockerhub. Further information and instructions can be found under [1]. This form of installation is sufficient for this workshop.
+
 This command is used to install the Docker Images and start the container:
 ```plain
 sudo docker run -d --hostname vm-client01 --name rabbit-dev \
