@@ -45,5 +45,11 @@ log output:
 
 Startup is completed and you can visit your local [RabbitMQ Management](http://localhost:15672) installation. Your login is admin with passwort admintest.
 
+## add a user
+For this workshop we create a new user.
+1. We log in to RabbitMQ management.
+2. Open the "Admin" tab and search for the "add a user" section. There we enter the user data. Here we enter the login "userdev" with the password "userdev".
+3. This user is displayed in the list above. At this point, the user has not yet gained access. We'll do that now. For this we click on the new user and get a new page. Under the area "Permissions" we click on "Set permissions".
+
 ## list of references
 1. [RabbitMQ Docker Official Images](https://hub.docker.com/_/rabbitmq)
