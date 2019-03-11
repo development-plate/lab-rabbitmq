@@ -12,6 +12,8 @@ public class ConsumerApp {
     public static void main(String[] args) throws Exception {
         ConnectionFactory factory = new ConnectionFactory();
         factory.setHost("localhost");
+
+        //add user from section 1
         factory.setUsername("userdev");
         factory.setPassword("userdev");
 
