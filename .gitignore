@@ -1,4 +1,6 @@
 Section_2_Testing_RabbitMQ_installation/.idea/*
+Section_2_Testing_RabbitMQ_installation/section2-producer/.idea/*
 Section_2_Testing_RabbitMQ_installation/section2-producer/target/*
+Section_2_Testing_RabbitMQ_installation/section2-consumer/.idea/*
 Section_2_Testing_RabbitMQ_installation/section2-consumer/target/*
 
