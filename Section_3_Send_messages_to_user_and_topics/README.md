@@ -1,6 +1,6 @@
-# Section 2: Testing RabbitMQ installation
+# Section 3: Send messages to users and topics
 ## foreword
-In this section we will perform a simple transfer from producer to consumer. We'll go into the details later.
+Here I took an example from chapter 2 of the book 'RabbitMQ Essentials' and extended or adapted it accordingly. I like the example in this way, because several users are created as Java threads and get a queue for their messages. So every user gets a message sent directly. Via topics the users are created according to their interests. If an area of interest receives a message, the registered users also receive a message. Another advantage of this example is that as soon as the RabbitMQ is no longer available, the consumer establishes a new connection.
 
 ## prerequisites
 * Installation of section 1 completed.
