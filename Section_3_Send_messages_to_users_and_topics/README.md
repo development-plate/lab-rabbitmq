@@ -18,4 +18,4 @@ Log in as admin in RabbitMQ Management Console and open the "Queues" tab. Here y
 In the last step we start the ConsumerApp and look at the output. "Hello World" should be shown here. The RabbitMQ management console should also show no message.
 
 ## list of references
-1. [RabbitMQ Tutorial "Hello World!"](https://www.rabbitmq.com/tutorials/tutorial-one-java.html)
+1. [source code from book 'RabbitMQ Essentials - Chapter 2'](https://github.com/tolyo/rabbitmq-essentials/tree/master/ch02)
