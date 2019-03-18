@@ -15,6 +15,8 @@ The application is started with the Main class from the package 'at.plate.lab.ra
 ## Stop application
 The application ends with enter. There is a note at startup.
 
+```
+```
 
 ## list of references
 1. [source code from book 'RabbitMQ Essentials - Chapter 2'](https://github.com/tolyo/rabbitmq-essentials/tree/master/ch02)
