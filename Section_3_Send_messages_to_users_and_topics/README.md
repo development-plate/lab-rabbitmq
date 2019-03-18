@@ -16,19 +16,19 @@ The application is started with the Main class from the package 'at.plate.lab.ra
 The application ends with enter. There is a note at startup.
 
 ## How is the process to be understood on the basis of the console output?
-
-Direct message
-Line 5: User 3 logs in.
-Line 6: User 3 sends a message to user 7.
-Line 19: User 7 logs in.
-Line 20: User receives message from user 3.
-
-Message about topics:
-Line 8: User 2 sends a message to the topic "science".
-Lines 9 to 11: Users 1,3 and 4 are interested in "science" and receive the message.
-
-This little game repeats itself in the further processes. 
-
+  
+Direct message  
+Line 5: User 3 logs in.  
+Line 6: User 3 sends a message to user 7.  
+Line 19: User 7 logs in.  
+Line 20: User receives message from user 3.  
+  
+Message about topics:  
+Line 8: User 2 sends a message to the topic "science".  
+Lines 9 to 11: Users 1,3 and 4 are interested in "science" and receive the message.  
+  
+This little game repeats itself in the further processes.  
+  
 ```
     1. Starting the application with 12 simulated users
     2. User login: 1
